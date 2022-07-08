@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\bin\Debug\net5.0\BookStoreM.models.deps.json
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\bin\Debug\net5.0\BookStoreM.models.dll
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\bin\Debug\net5.0\BookStoreM.models.pdb
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.dll
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\refint\BookStoreM.models.dll
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.pdb
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\ref\BookStoreM.models.dll
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\bin\Debug\net5.0\BookStoreM.models.runtimeconfig.json
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\bin\Debug\net5.0\BookStoreM.models.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\BookStore.Api\BookStoreM.models\obj\Debug\net5.0\BookStoreM.models.genruntimeconfig.cache
